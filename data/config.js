@@ -1,11 +1,11 @@
-const mysql = require('mysql');
+const mysql = require('mysql2');
 
 //set database connection credentials
 const config = {
     host:'localhost',
-    user: 'admin',
-    password: 'Qwerty3001',
-    database: 'api',
+    user: 'l18540327',
+    password: 'VK5857ywdPd3szv',
+    database: 'apiervey',
 };
 
 //create a MySql pool
